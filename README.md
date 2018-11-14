@@ -43,7 +43,7 @@ Client which consumes the microservices
    
    ## Query
    Post through Advanced REST client extension of Google Chrome
-   - Method Post : http://localhost:9999/reservations
+   - Post Method : http://localhost:9999/reservations
    - Body: {"reservationName":"Viktor"}
    - Body Content Type: application/json
    
